@@ -38,3 +38,9 @@ LA forma de trabajo es esta:
 			a) sólo puede ser escrito por el administrador(Araceli)
 			b) los cambios se mandan usando correos o si estas en la LAN usando el directorios compartidos de windows
 			c) Se usa la interfaz gráfica para aplicar los cambios o si también se puede usar la línea de comandos.
+
+La mecánica es esta: 
+
+The fundamental idea of rebasing is that you make sure that your commits go on top of the "public" branch, 
+that you "rebase" them so that instead of being related to some commit way back when you started working on this feature, 
+they get reworked a little so they go on top of what's there now.
