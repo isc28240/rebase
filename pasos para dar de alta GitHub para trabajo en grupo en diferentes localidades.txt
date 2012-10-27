@@ -49,3 +49,6 @@ they get reworked a little so they go on top of what's there now.
 
 1.- No trabajes en la MASTER POR NADA DEL MUNDO!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!. 
 2.- Usar un branch por tópico o problema arreglado. 
+3.- Cambiarse al branch master
+4.- Hacer un pull del repositorio maestro. 
+5.- Cambiarse al branch con los cambios
