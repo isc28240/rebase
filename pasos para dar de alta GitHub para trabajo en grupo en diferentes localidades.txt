@@ -53,8 +53,19 @@ they get reworked a little so they go on top of what's there now.
 
 1.- No trabajes en la MASTER POR NADA DEL MUNDO!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!. 
 2.- Todos los cambios se hacen en su propio branch, de preferencia de un cambio relacionado con el branch. 
-3.- Cambiarse a master y hacer un pull del repositorio maestro. 
-4.- Hacer un pull del repositorio maestro. 
+3.- Si tienes varios commits hacerles rebase contra el repositorio maestro para dejar un sólo commit.
+4.- Cambiarse a master y hacer un pull del repositorio maestro. 
+5.- Cambiarse al branch de la característica que ahora tiene un sólo commit.
+6.- HAcer rebase del branch de la característica contra el repositorio maestro. 
+7.- Formatear un parche con el único commit que quedó. 
+8.- Enviarlo por correo a Araceli. 
+9.- Araceli: Aplicar el parche en master. 
+10.- Araceli: Subir el cambio al repositorio maestro. 
+11.- Bajar los últimos cambios del repo maestro a nuestro master. 
+12.- Cambiarnos al branch de la característica y dar un último rebase contra el repo maestro. 
+
+
+
 5.- Cambiarse al branch con los cambios
 1
 2
