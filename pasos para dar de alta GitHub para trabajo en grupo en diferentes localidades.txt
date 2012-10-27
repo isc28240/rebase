@@ -1,6 +1,10 @@
 ----------------------------------------------------------------------
 PASOS PARA CREAR CERTIFICADO PARA ADMINISTRADOR REPOSITORIO
 ----------------------------------------------------------------------
+Cambio del 26-oct-2012: 
+Se añadieron los pasos para usar un workflow basado en rebase en vez de commit.
+La idea en general es que sólo se le envíe un commit a Araceli y ella lo aplique.
+Los commits se puede compactar y enviárseles a Araceli por correo. 
 
 GitHub accounts
 	isc28240
@@ -48,7 +52,7 @@ they get reworked a little so they go on top of what's there now.
 
 
 1.- No trabajes en la MASTER POR NADA DEL MUNDO!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!. 
-2.- Usar un branch por tópico o problema arreglado. 
-3.- Cambiarse al branch master
+2.- Todos los cambios se hacen en su propio branch, de preferencia de un cambio relacionado con el branch. 
+3.- Cambiarse a master y hacer un pull del repositorio maestro. 
 4.- Hacer un pull del repositorio maestro. 
 5.- Cambiarse al branch con los cambios
