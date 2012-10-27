@@ -44,3 +44,8 @@ La mecánica es esta:
 The fundamental idea of rebasing is that you make sure that your commits go on top of the "public" branch, 
 that you "rebase" them so that instead of being related to some commit way back when you started working on this feature, 
 they get reworked a little so they go on top of what's there now.
+
+
+
+1.- No trabajes en la MASTER POR NADA DEL MUNDO!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!. 
+
