@@ -62,3 +62,5 @@ they get reworked a little so they go on top of what's there now.
 4
 5
 6
+/*Copias debe estar previamente validada que sea mayor a cero*/
+imprimir (copias);
