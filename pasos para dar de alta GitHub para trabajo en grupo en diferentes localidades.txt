@@ -1,0 +1,40 @@
+----------------------------------------------------------------------
+PASOS PARA CREAR CERTIFICADO PARA ADMINISTRADOR REPOSITORIO
+----------------------------------------------------------------------
+
+GitHub accounts
+	isc28240
+		Ya generé la llave pública y privada. 
+	fcintrono
+		Ya generé la llave pública y privada
+
+1.- Instalar Putty.
+2.- Actualizar a GitExtensions 2.41
+3.- Crear cuenta en GitHub
+
+
+
+
+/***********************************************/
+Conectarse a GitHub
+/***********************************************/
+1.- En cada cliente Remotes->Generate or import key
+	a.- Generate
+	b.- Escribir password de la llave primaria
+	c.- Confirmar password de la llave primaria
+	d.- Save private key
+	e.- Save public key
+2.- Entrar a github.com
+	a.- Crear cuenta para desarrollo. 
+	b.- Crear repositorio. 
+	c.- Cargar llave publica Settings->SSH Key
+		1.- Abrir el archivo de llave privada generada en el paso1. 
+		2.- Copiar el contenido del recuadro  que dice public key. 
+		
+
+	
+LA forma de trabajo es esta: 
+		1.- El repositorio maestro puede ser leído por todo mundo. 
+			a) sólo puede ser escrito por el administrador(Araceli)
+			b) los cambios se mandan usando correos o si estas en la LAN usando el directorios compartidos de windows
+			c) Se usa la interfaz gráfica para aplicar los cambios o si también se puede usar la línea de comandos.
