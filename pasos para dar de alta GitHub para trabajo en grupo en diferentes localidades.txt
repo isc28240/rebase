@@ -57,3 +57,4 @@ they get reworked a little so they go on top of what's there now.
 4.- Hacer un pull del repositorio maestro. 
 5.- Cambiarse al branch con los cambios
 1
+2
