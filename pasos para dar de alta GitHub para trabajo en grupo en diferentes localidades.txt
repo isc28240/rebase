@@ -66,26 +66,6 @@ they get reworked a little so they go on top of what's there now.
 
 
 
-5.- Cambiarse al branch con los cambios
-1
-2
-3
-4
-5
-6
-if (!unico){
-	iniciar++;
-}
-
-if (iniciar <= 0){
-	iniciar = 0;
-}
-/*Copias debe estar previamente validada que sea mayor a cero*/
-copias = iniciar;
-imprimir (copias);
-
-la impresión de considera fuera de la transacción
-
 
 http://blog.mikepearce.net/2010/05/18/the-difference-between-git-pull-git-fetch-and-git-clone-and-git-rebase/
 http://unethicalblogger.com/2010/04/02/a-rebase-based-workflow.html
@@ -95,4 +75,3 @@ http://randyfay.com/content/rebase-workflow-git
 
 
 http://eagain.net/articles/git-for-computer-scientists/
-
