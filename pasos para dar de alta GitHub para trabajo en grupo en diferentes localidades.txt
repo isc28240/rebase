@@ -69,11 +69,17 @@ they get reworked a little so they go on top of what's there now.
 11.- Bajar los últimos cambios del repo maestro a nuestro master. 
 12.- Cambiarnos al branch de la característica y dar un último rebase contra el repo maestro. 
 
-
+--------------------------------------------------------------------------
+LIGAS CON INFORMACIÓN ADICIONAL.
+--------------------------------------------------------------------------
 http://blog.mikepearce.net/2010/05/18/the-difference-between-git-pull-git-fetch-and-git-clone-and-git-rebase/
 http://unethicalblogger.com/2010/04/02/a-rebase-based-workflow.html
 http://drupal.org/node/1054616
 http://randyfay.com/content/rebase-workflow-git
 http://eagain.net/articles/git-for-computer-scientists/
+http://www-cs-students.stanford.edu/~blynn/gitmagic/		MUY BUENO
 
-31OCT 11:39
+----------------------------------------------------------------------
+FIN
+-----------------------------------------------------------------------
+
