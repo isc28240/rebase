@@ -1,10 +1,15 @@
 ----------------------------------------------------------------------
 PASOS PARA CREAR CERTIFICADO PARA ADMINISTRADOR REPOSITORIO
 ----------------------------------------------------------------------
+Cambio del 31-oct-2012
+Se añadieron páginas de internet con tutoriales de Git
+
 Cambio del 26-oct-2012: 
 Se añadieron los pasos para usar un workflow basado en rebase en vez de commit.
 La idea en general es que sólo se le envíe un commit a Araceli y ella lo aplique.
 Los commits se puede compactar y enviárseles a Araceli por correo. 
+
+
 
 GitHub accounts
 	isc28240
